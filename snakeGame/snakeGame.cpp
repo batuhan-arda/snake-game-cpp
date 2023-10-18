@@ -19,7 +19,6 @@ class gameSnake
 		int points;
 
 		bool gameRunning; // game running state
-		bool shouldUpdateSnakePos; // update snakes position
 		bool shouldgenFood; // should we generate food?
 
 		enum movementStates { UP = 1, DOWN, LEFT, RIGHT }; // possible movement 
