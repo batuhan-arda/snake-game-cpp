@@ -1,2 +1,3 @@
 # snake-game-cpp
-first project of c++
+Its my first project in c++, hoping to get better
+Everything is explained in the code
